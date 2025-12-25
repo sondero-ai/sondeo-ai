@@ -61,17 +61,6 @@ I'm an **AI-Augmented Developer** who uses AI as a coding partner to build produ
 
 ---
 
-## GitHub Stats 📊
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sondero-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondero-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" height="180"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"I don't write every line of code. I orchestrate AI to build faster."*
