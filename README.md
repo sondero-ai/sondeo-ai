@@ -6,9 +6,9 @@
 
 **AI-Powered Developer • Automation Enthusiast • Content Creator**
 
-[![Portfolio](https://img.shields.io/badge/COGITODAILY.COM-0A66C2?style=for-the-badge&logoColor=white)](https://cogitodaily.com)
+[![Portfolio](https://img.shields.io/badge/SONDERO.XYZ-0A66C2?style=for-the-badge&logoColor=white)](https://sondero.xyz)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sondero-ai)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@cogitodaily.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@sondero.xyz)
 ![Profile Views](https://komarev.com/ghpvc/?username=sondero-ai&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
@@ -17,7 +17,7 @@
 
 ## What I Do?
 
-I'm an **AI-Augmented Developer** who uses AI as a coding partner to build production-ready applications faster. I focus on **web development**, **automation**, and **AI-powered content systems**. Currently building [CogitoDaily](https://cogitodaily.com) — an automated AI news platform that publishes 5 articles/day with zero manual writing.
+I'm an **AI-Augmented Developer** who uses AI as a coding partner to build production-ready applications faster. I focus on **web development**, **automation**, and **AI-powered content systems**.
 
 **Open to:** Collaborations • Freelance Projects • AI/Automation Consulting
 
@@ -26,7 +26,7 @@ I'm an **AI-Augmented Developer** who uses AI as a coding partner to build produ
 ## Featured Projects ✨
 
 - **[CogitoDaily](https://cogitodaily.com)** - AI News & Tools Blog with automated content pipeline (Next.js + Gemini AI)
-- **[Awesome AI Prompts](https://github.com/sondero-ai/awesome-ai-prompts)** - Curated collection of AI prompts for developers *(coming soon)*
+- **[Sondero Portfolio](https://sondero.xyz)** - Personal portfolio website
 
 ---
 
