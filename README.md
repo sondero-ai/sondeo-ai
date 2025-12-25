@@ -25,7 +25,7 @@ I'm an **AI-Augmented Developer** who uses AI as a coding partner to build produ
 
 ## Featured Projects ✨
 
-- **[CogitoDaily](https://cogitodaily.com)** - AI News & Tools Blog with automated content pipeline (Next.js + Gemini AI)
+- **[CogitoDaily](https://cogitodaily.com)** - AI News & Tools Blog (Next.js + Tailwind CSS)
 - **[Sondero Portfolio](https://sondero.xyz)** - Personal portfolio website
 
 ---
